@@ -150,7 +150,7 @@
         android:layout_width="360dp"
         android:layout_height="229dp"
         android:background="@drawable/border_tuan2_bai2"
-        android:text="Hãy chi sẻ những điều mà bạn \nthích về sản phẩm"
+        android:text="Hãy chi sẻ những điều mà bạn \nthích về sản phẩm này"
         android:textAlignment="viewStart"
         android:textSize="20dp"
         android:textStyle="bold"
