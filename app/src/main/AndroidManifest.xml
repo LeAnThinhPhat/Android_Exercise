@@ -9,13 +9,15 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.BaiTapAndroid">
-        <activity android:name=".Tuan2_Bai4"></activity>
+        <activity android:name=".Tuan3_Bai2"></activity>
+        <activity android:name=".Tuan1_Bai2" />
+        <activity android:name=".Tuan2_Bai4" />
         <activity android:name=".Tuan2_Bai3" />
         <activity android:name=".Tuan2_Bai2" />
         <activity android:name=".Tuan2_Bai1" />
         <activity android:name=".Tuan1_Bai3" />
         <activity android:name=".Tuan1_Bai1" />
-        <activity android:name=".Tuan1_Bai2">
+        <activity android:name=".Tuan3_Bai1">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
